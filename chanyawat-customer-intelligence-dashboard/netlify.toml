@@ -1,0 +1,8 @@
+# Netlify configuration for static single-file deployment
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

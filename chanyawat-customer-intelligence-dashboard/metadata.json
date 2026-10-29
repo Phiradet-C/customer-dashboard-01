@@ -1,0 +1,6 @@
+{
+  "name": "Chanyawat Customer Intelligence Dashboard",
+  "description": "ระบบวิเคราะห์ข้อมูลลูกค้า ความสนใจ สถานะการติดตาม AI Analytics และแผนที่พิกัดที่ตั้งบริษัทกลุ่มเป้าหมาย (Map) เครือโครงการจรรยวรรธ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
